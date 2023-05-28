@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.jpg</file>
+        <file>administrator_icon.jpg</file>
+        <file>salesman_icon.jpg</file>
+        <file>dlg_addsalesman.jpg</file>
+        <file>dlg_addsales.jpg</file>
+        <file>dlg_addproduct.jpg</file>
+    </qresource>
+</RCC>
