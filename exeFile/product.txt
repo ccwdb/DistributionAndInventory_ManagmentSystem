@@ -1,0 +1,3 @@
+id name manufacturer price quantity
+15788751 mate3 mate 100 20
+15788752 mate4 mate 150 40
