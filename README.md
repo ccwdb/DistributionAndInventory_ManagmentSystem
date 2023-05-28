@@ -1,5 +1,5 @@
 # DistributionAndInventory_ManagmentSystem
-OOP couse design
+OOP couse design using qt and sqlite3
 
 # Instructions for use:
 
